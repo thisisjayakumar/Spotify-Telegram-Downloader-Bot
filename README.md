@@ -280,8 +280,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 📞 Contact
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Telegram:** [@yourtelegram](https://t.me/yourtelegram)
+- **GitHub:** [@yourusername](https://github.com/thisisjayakumar)
+- **Telegram:** [@yourtelegram](https://t.me/jayhackzproadmin)
 
 ---
 
