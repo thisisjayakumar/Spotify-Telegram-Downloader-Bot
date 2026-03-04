@@ -30,17 +30,16 @@ A powerful Telegram bot that downloads music from Spotify tracks and playlists, 
 
 ## 🚀 Installation
 
+# 🎵 Spotify Music Downloader Bot
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/spotify-music-downloader-bot.git
 cd spotify-music-downloader-bot
-
-# 🎵 Spotify Music Downloader Bot
+```
 
 ---
-
-## 2. Create Virtual Environment
-
+2. Create Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
