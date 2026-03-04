@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  spotify-bot:
+    build: .
+    container_name: spotify-downloader
+    restart: unless-stopped
+    volumes:
+      - ./downloads:/app/downloads
+    environment:
+      - TZ=Asia/Kolkata
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

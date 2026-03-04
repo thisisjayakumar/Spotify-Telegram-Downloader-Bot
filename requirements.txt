@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+aiohttp==3.9.1
+aiofiles==23.2.1
+requests==2.31.0
+pytz==2023.3
